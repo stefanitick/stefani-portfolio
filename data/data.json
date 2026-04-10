@@ -62,7 +62,7 @@
       "tags": ["Strategy", "Dashboard Design", "Data Visualization", "Recommendation Systems"],
       "tools": ["Google Sheets", "Apps Script", "Data Analysis"],
       "gallery": [
-        { "type": "image", "src": "/work/dir-1.jpg", "caption": "Dashboard Overview" },
+        { "type": "image", "src": "/work/eastchamp-logo.jpg", "caption": "Dashboard Overview" },
         { "type": "image", "src": "/work/dir-2.jpg", "caption": "Recommendation Flow" },
         { "type": "image", "src": "/work/dir-3.jpg", "caption": "Sentra Analysis" }
       ]
