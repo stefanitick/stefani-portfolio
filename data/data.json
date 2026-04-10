@@ -1,0 +1,173 @@
+{
+  "profile": {
+    "name": "Stefani Tick",
+    "role": "Creative Strategist · Marketing Strategist · Project Builder",
+    "bio": "Marketing professional with 9+ years of experience across creative execution, activation, brand support, and strategy-led system development. Work spans integrated campaigns, field execution, cross-functional collaboration, and the design of practical tools that turn market signals into clearer decisions.",
+    "photo": "/profile.png",
+    "resumeUrl": "/resume.pdf",
+    "education": {
+      "school": "Bachelor's Degree",
+      "detail": "Visual Communication Design",
+      "year": "2011 – 2015"
+    },
+    "contact": {
+      "email": "stefanitick@gmail.com",
+      "whatsapp": "6281999001004",
+      "linkedin": "https://linkedin.com/in/stefanitick"
+    }
+  },
+  "expertise": [
+    { "icon": "▶", "name": "Motion Design", "desc": "Video, animation, and motion graphics for campaigns, activations, and presentations." },
+    { "icon": "◈", "name": "Creative Strategy", "desc": "Translating brand objectives into creative concepts with clear narratives." },
+    { "icon": "◉", "name": "Marketing Strategy", "desc": "Activation planning, market insight framing, and recommendation design." },
+    { "icon": "◎", "name": "Community Strategy", "desc": "Building engagement systems and community-facing programs." },
+    { "icon": "⊞", "name": "Systems & Tools", "desc": "No-code and Sheets-based operational systems, dashboards, and workflow logic." }
+  ],
+  "skills": [
+    "Motion Design", "Visual Storytelling", "Presentation Design",
+    "Campaign Planning", "Activation Strategy", "Market Insight",
+    "Dashboard Design", "Recommendation Frameworks",
+    "Cross-functional Collaboration", "Field Coordination",
+    "Stakeholder Communication", "System Design"
+  ],
+  "tools": [
+    "Adobe Creative Suite", "After Effects", "Premiere Pro",
+    "Illustrator", "Photoshop", "Google Slides",
+    "Google Sheets", "Apps Script", "Figma"
+  ],
+  "experience": [
+    {
+      "company": "DJARUM",
+      "role": "Marketing — Regional Sales Marketing Services",
+      "year": "2016 – Present",
+      "desc": "Began with creative production and motion/visual support, then expanded into activation execution, cross-district coordination, strategic planning support, and structured market insight projects."
+    },
+    {
+      "company": "IRIS Worldwide",
+      "role": "Creative Intern",
+      "year": "2015",
+      "desc": "Supported creative development and visual execution work, learning campaign thinking, agency workflow, and collaboration with senior creatives."
+    }
+  ],
+  "works": [
+    {
+      "id": "dir",
+      "title": "dir()",
+      "subtitle": "Demand Insight & Recommendation Engine",
+      "category": "Strategy",
+      "featured": true,
+      "emoji": "◈",
+      "shortDesc": "Internal program to turn weekly field surveys into market recommendations at sentra level.",
+      "fullDesc": "Strategic internal program designed to transform weekly and biweekly field survey data into actionable market recommendations. Developed the overall concept, storytelling, dashboard direction, and recommendation logic framework around four strategic types: counter competitor, trending price/category, winning SKU maintenance, and long-term premium push.",
+      "tags": ["Strategy", "Dashboard Design", "Data Visualization", "Recommendation Systems"],
+      "tools": ["Google Sheets", "Apps Script", "Data Analysis"],
+      "gallery": [
+        { "type": "image", "src": "/work/dir-1.jpg", "caption": "Dashboard Overview" },
+        { "type": "image", "src": "/work/dir-2.jpg", "caption": "Recommendation Flow" },
+        { "type": "image", "src": "/work/dir-3.jpg", "caption": "Sentra Analysis" }
+      ]
+    },
+    {
+      "id": "reachz",
+      "title": "reach(z)",
+      "subtitle": "Gen Z Coffee Shop Marketing Concept",
+      "category": "Strategy",
+      "featured": true,
+      "emoji": "◉",
+      "shortDesc": "Proposal for a cigarette-channel marketing solution built around coffee shop smoking areas.",
+      "fullDesc": "Developed a complete concept, positioning, and business narrative for a new channel approach aimed at younger adult consumers. Explored how on-site booth presence, signage, product visibility, and an operational support app could work together as one ecosystem.",
+      "tags": ["Concept Development", "Channel Marketing", "Deck Design", "Gen Z"],
+      "tools": ["Google Slides", "Adobe Illustrator", "Premiere Pro"],
+      "gallery": [
+        { "type": "image", "src": "/work/reachz-1.jpg", "caption": "Concept Deck" },
+        { "type": "image", "src": "/work/reachz-2.jpg", "caption": "Booth Design" },
+        { "type": "image", "src": "/work/reachz-3.jpg", "caption": "App Flow" }
+      ]
+    },
+    {
+      "id": "eastchamp",
+      "title": "EASTCHAMP 2026",
+      "subtitle": "Tournament Website & Event Assets",
+      "category": "Web / Tool",
+      "featured": true,
+      "emoji": "⊞",
+      "shortDesc": "Static tournament site and event support for an eSports competition with qualifiers, schedules, and brackets.",
+      "fullDesc": "Designed and refined site structure for pages including home, schedule, bracket, teams, rules, gallery, and scoreboard. Connected the site to Google Sheets as a dynamic data source and used GitHub-hosted assets for team logos and media.",
+      "tags": ["Web Design", "Google Sheets Integration", "eSports", "Event Design"],
+      "tools": ["HTML/CSS", "Google Sheets", "GitHub"],
+      "gallery": [
+        { "type": "image", "src": "/work/eastchamp-1.jpg", "caption": "Homepage" },
+        { "type": "image", "src": "/work/eastchamp-2.jpg", "caption": "Bracket View" },
+        { "type": "image", "src": "/work/eastchamp-3.jpg", "caption": "Team Page" }
+      ]
+    },
+    {
+      "id": "rally",
+      "title": "Rally Manager",
+      "subtitle": "Leaderboard & Session System",
+      "category": "Web / Tool",
+      "featured": true,
+      "emoji": "▶",
+      "shortDesc": "Google Sheets and Apps Script-based operational system for sports session management and rankings.",
+      "fullDesc": "Designed complete logic and workflow for sessions, rallies, player registration, waitlist handling, match generation, and status tracking. Structured weekly and monthly ranking logic so game outcomes, bonuses, wins, match counts, and rally wins could be aggregated into readable standings.",
+      "tags": ["Google Sheets", "Apps Script", "System Design", "Sports Tech"],
+      "tools": ["Google Sheets", "Apps Script", "Google Forms"],
+      "gallery": [
+        { "type": "image", "src": "/work/rally-1.jpg", "caption": "Session Dashboard" },
+        { "type": "image", "src": "/work/rally-2.jpg", "caption": "Leaderboard" },
+        { "type": "image", "src": "/work/rally-3.jpg", "caption": "Match Generator" }
+      ]
+    },
+    {
+      "id": "exec-dash",
+      "title": "Executive Dashboard",
+      "subtitle": "Wireframing & Recommendation Design",
+      "category": "Visual Design",
+      "featured": false,
+      "emoji": "◎",
+      "shortDesc": "Dashboard design work focused on making complex market data easier to read for decision-makers.",
+      "thumbnail": "/work/exec-dash-thumb.jpg"
+    },
+    {
+      "id": "activation",
+      "title": "Multi-City Activation",
+      "subtitle": "Engagement Support & Creative",
+      "category": "Motion",
+      "featured": false,
+      "emoji": "▶",
+      "shortDesc": "Creative and communication support for campaigns and marketing activities across multiple cities.",
+      "thumbnail": "/work/activation-thumb.jpg"
+    },
+    {
+      "id": "motion",
+      "title": "Creative Motion Work",
+      "subtitle": "Visual & Video Assets",
+      "category": "Motion",
+      "featured": false,
+      "emoji": "◈",
+      "shortDesc": "Long-running body of visual and motion-based marketing materials for campaigns, activations, and presentations.",
+      "videoUrl": "https://www.youtube.com/embed/YOUR_VIDEO_ID",
+      "thumbnail": "/work/motion-thumb.jpg"
+    },
+    {
+      "id": "splitbill",
+      "title": "Split Bill App",
+      "subtitle": "Billiard + F&B Settlement",
+      "category": "Web / Tool",
+      "featured": false,
+      "emoji": "⊞",
+      "shortDesc": "Sheets-based settlement and outstanding-tracking application for shared table fees and food & beverage payments.",
+      "thumbnail": "/work/splitbill-thumb.jpg"
+    },
+    {
+      "id": "iris",
+      "title": "IRIS Worldwide",
+      "subtitle": "Creative Internship Work",
+      "category": "Visual Design",
+      "featured": false,
+      "emoji": "◉",
+      "shortDesc": "Visual execution and creative development work from agency internship.",
+      "thumbnail": "/work/iris-thumb.jpg"
+    }
+  ]
+}
